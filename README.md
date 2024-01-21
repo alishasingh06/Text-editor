@@ -1,2 +1,2 @@
 # Notepad
-With the help of GUI library provided by Python, a text editor, notepad is build up. It has two main menu items: File & Edit along with their functionalities.
+This is a simple text-editr built using GUI library provided by Python. It is equipped with the basic functionalities of File and Edit menu.
